@@ -36,7 +36,11 @@ Correct Code Entered (Door Opens and LED Light Turns Green):  <br/>
 <br />
 <br />
 Countdown For Door:  <br/>
-<img src="https://i.imgur.com/ntgyVKp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c8m4uAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Distance Sensor Green Light (Object Is Further Than 60 Inches):  <br/>
+<img src="https://i.imgur.com/olfK7NM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Distance Sensor Yellow Light (Object Is Between 12 and 60 Inches):  <br/>
